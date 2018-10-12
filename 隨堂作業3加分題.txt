@@ -1,0 +1,8 @@
+> pi
+[1] 3.141593
+>   ceiling(pi)
+[1] 4
+>   floor(pi)
+[1] 3
+>   round(pi, digits = pi)
+[1] 3.142
